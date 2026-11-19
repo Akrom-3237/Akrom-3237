@@ -97,7 +97,7 @@ motto: "Code. Learn. Repeat."
 
 | Topic | Status |
 |:------|:------:|
-| Advanced Java | 🔄 In Progress |
+| Advanced Java | ✅ Completed |
 | Spring Boot | 🔄 In Progress |
 | Spring Security & JWT | 📋 Planned |
 | RESTful API Development | 📋 Planned |
