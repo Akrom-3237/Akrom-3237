@@ -18,20 +18,26 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```yaml
 name: Akrom Shomurodov
 location: Tashkent, Uzbekistan
-education: PDP Academy (Java Backend, G63)
+education:
+  - PDP Academy — Java Backend Development (G63)
+  - TATU — Information Systems & Technologies
 role: Aspiring Java Backend Developer
-focus: Building clean, scalable backend applications
+experience:
+  - Built production-ready web apps with Jakarta EE
+  - Designed database architectures with JPA/Hibernate
+  - Currently mastering Spring Boot ecosystem
+interests:
+  - Clean architecture & design patterns
+  - Database design & optimization
+  - RESTful API development
+  - Backend security & authentication
+goals:
+  - Land a Java Backend Developer position
+  - Contribute to open-source projects
+  - Build scalable enterprise applications
 motto: "Code. Learn. Repeat."
-```
-
----
 
 ## 🛠️ Tech Stack
 
